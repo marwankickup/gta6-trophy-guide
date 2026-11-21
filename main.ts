@@ -1,3 +1,6 @@
+// Leonida Trophy Guide — a full offline GTA VI trophy guide + tracker for gta6-trophy-guide-01
+// (marwankickup): all 55 official PS5 trophies with own-words guides, citations, a
+// platinum roadmap, missable flags, filters, a spoiler setting and progress export/import.
 // A working gta6-trophy-guide-01 entry (Node 22, standard library only): the guide is this directory's app/ folder,
 // plain static files a browser opens at app/index.html (ES modules, CSS, no build step), offline: it loads nothing
 // over the network, and its trophy list and guides are app/data/trophies.json. The program hands it in: it copies app/
